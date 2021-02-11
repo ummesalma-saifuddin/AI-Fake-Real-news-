@@ -1,1 +1,1 @@
-# AI-Fake-Real-news-
+# Project for Artificial Intelligence for detecting fake and real news
